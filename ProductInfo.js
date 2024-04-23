@@ -1,3 +1,4 @@
+//ProductInfo.js
 import React from 'react';
 
 const ProductInfo = ({ product, addToCart }) => {
